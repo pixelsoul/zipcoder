@@ -10399,7 +10399,8 @@ a.text-dark:focus {
 }
 
 .navbar-laravel .navbar-brand {
-  font-size: 28px;
+  font-size: 38px;
+  font-family: "Prompt", sans-serif;
 }
 
 .pagination-row {
